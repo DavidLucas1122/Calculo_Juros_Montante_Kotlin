@@ -1,4 +1,4 @@
-package com.example.gestaoestado.calculos.components
+package com.example.gestaoestado.components
 
 import android.R.attr.label
 import android.inputmethodservice.Keyboard
